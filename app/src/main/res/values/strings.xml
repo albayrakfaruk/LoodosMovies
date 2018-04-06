@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoodosMovies</string>
+    <string name="firebase_remote_config">Firebase Remote Config</string>
+    <string name="search">Search</string>
+    <string name="enter">Enter..</string>
+    <string name="search_movie">SEARCH MOVIE</string>
+</resources>
